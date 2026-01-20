@@ -1,2 +1,0 @@
-"Dette er min første test med GitHub"
-"Dette er skrevet direkte fra internettet!"
