@@ -1,2 +1,1 @@
-"Dette er min første test med GitHub"
-"Dette er skrevet direkte fra internettet!"
+"DETTE ER EN TEST I MIN BRANCH - Main er sikker!"
